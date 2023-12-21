@@ -1,1 +1,1 @@
-#this is a proposed new feature
+#this line in feature2 will create a merge conflict
